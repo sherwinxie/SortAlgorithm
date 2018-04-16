@@ -28,7 +28,7 @@ public class SortUtils {
             }
         }//end while
 
-
+        //Pivot modify
         arr[left]=arr[i];//基准点重回左边
         arr[i]=pivot;//pivot给arr[i] arr[i]为中间值
 
